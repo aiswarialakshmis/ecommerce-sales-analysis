@@ -16,17 +16,4 @@ This project analyzes e-commerce sales data to identify trends, best-selling pro
 - Highlighted the top 10 best-selling products based on sales.
 - Visualized sales trends over time to spot seasonal demand.
 
-## Screenshots/Graphs
-Below are sample visualizations from the analysis:
 
-*(Add screenshots of graphs here if applicable)*
-
-## How to Run It
-1. Install required libraries:
-   ```sh
-   pip install pandas matplotlib seaborn
-   ```
-2. Download and place the dataset (`ecommerce_sales.csv`) in the same directory.
-3. Run the Python script:
-   ```sh
-   python ecommerce_sales_analysis.py
